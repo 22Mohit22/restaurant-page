@@ -1,0 +1,27 @@
+{
+    "allFoodItems": [
+      { "itemName": "Avocado Toast", "description": "Fresh avocado on toasted sourdough bread.", "price": 10.99 },
+      { "itemName": "Eggs Benedict", "description": "Poached eggs served on English muffins with hollandaise sauce.", "price": 12.99 },
+      { "itemName": "Belgian Waffles", "description": "Fluffy waffles served with maple syrup and fresh berries.", "price": 9.99 },
+      { "itemName": "Pancakes", "description": "Buttermilk pancakes served with butter and maple syrup.", "price": 8.99 },
+      { "itemName": "Breakfast Burrito", "description": "Scrambled eggs, bacon, cheese, and salsa wrapped in a flour tortilla.", "price": 11.99 },
+      { "itemName": "Breakfast Burrito Bowl", "description": "Scrambled eggs, black beans, avocado, and salsa served over brown rice.", "price": 11.99 },
+      { "itemName": "French Toast", "description": "Thick slices of bread dipped in egg batter and pan-fried, served with powdered sugar and syrup.", "price": 10.99 },
+      { "itemName": "Eggs Florentine", "description": "Poached eggs served on English muffins with spinach and hollandaise sauce.", "price": 13.99 },
+      { "itemName": "Omelette", "description": "Fluffy egg omelette with your choice of fillings (cheese, ham, peppers, onions, mushrooms).", "price": 11.99 },
+      { "itemName": "Breakfast Bowl", "description": "Scrambled eggs, roasted potatoes, bacon, and cheese topped with avocado and salsa.", "price": 12.99 }
+    ],
+    "allDrinkItems": [
+      { "itemName": "Mimosa", "description": "Sparkling wine mixed with orange juice.", "price": 8.99 },
+      { "itemName": "Bloody Mary", "description": "Vodka mixed with tomato juice and spices, garnished with celery and olives.", "price": 9.99 },
+      { "itemName": "Espresso", "description": "Strong black coffee made by forcing steam through finely-ground coffee beans.", "price": 3.99 },
+      { "itemName": "Cappuccino", "description": "Espresso mixed with steamed milk and topped with frothed milk.", "price": 4.99 },
+      { "itemName": "Freshly Squeezed Orange Juice", "description": "Freshly squeezed orange juice served over ice.", "price": 5.99 },
+      { "itemName": "Bellini", "description": "Prosecco mixed with peach puree.", "price": 9.99 },
+      { "itemName": "Irish Coffee", "description": "Hot coffee spiked with Irish whiskey and topped with whipped cream.", "price": 7.99 },
+      { "itemName": "Latte", "description": "Espresso mixed with steamed milk and a small amount of frothed milk.", "price": 4.99 },
+      { "itemName": "Iced Tea", "description": "Chilled black tea served over ice with lemon wedges.", "price": 3.99 },
+      { "itemName": "Green Smoothie", "description": "Blended mixture of spinach, kale, banana, apple, and almond milk.", "price": 6.99 }
+    ]
+  }
+  
